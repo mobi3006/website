@@ -1,8 +1,15 @@
-title: Just the Docs Template
-description: A starter template for a Jeykll site using the Just the Docs theme!
+title: mobi3006 website
+description: website based on Jeykll/GithubPages and the fantastic Just the Docs theme!
 theme: just-the-docs
 
-url: https://just-the-docs.github.io
+url: https://mobi3006.github.io/website/
+#favicon_ico: "/assets/images/favicon.ico"
+logo: "/assets/images/pierreinside.jpg"
+
+search_enabled: true
+heading_anchors: true
 
 aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+  JustTheDocs: https://github.com/just-the-docs/just-the-docs-template
+  pierreinnside: https://mobi3006.gitbooks.io/pierreinside
+aux_links_new_tab: rue
