@@ -10,6 +10,7 @@ search_enabled: true
 heading_anchors: true
 
 aux_links:
+  github: https://github.com/mobi3006/website
+  pierreinside: https://mobi3006.gitbooks.io/pierreinside
   JustTheDocs: https://github.com/just-the-docs/just-the-docs-template
-  pierreinnside: https://mobi3006.gitbooks.io/pierreinside
 aux_links_new_tab: rue

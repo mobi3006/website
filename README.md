@@ -1,6 +1,7 @@
+
 # just-the-docs-template
 
-This is a *bare-minimum* template to create a [Jekyll] site that:
+This website is based on [Jekyll] site that:
 
 - uses the [Just the Docs] theme;
 - can be built and published on [GitHub Pages];
@@ -19,17 +20,6 @@ To get started with creating a site, simply:
 If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](#hosting-your-docs-from-an-existing-project-repo).
 
 After completing the creation of your new site on GitHub, update it as needed:
-
-## Replace the content of the template pages
-
-Update the following files to your own content:
-
-- `index.md` (your new home page)
-- `README.md` (information for those who access your site repo on GitHub)
-
-## Changing the version of the theme and/or Jekyll
-
-Simply edit the relevant line(s) in the `Gemfile`.
 
 ## Adding a plugin
 
