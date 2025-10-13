@@ -1,6 +1,7 @@
 title: mobi3006 website
 description: website based on Jeykll/GithubPages and the fantastic Just the Docs theme!
 theme: just-the-docs
+color_scheme: dark
 
 url: https://mobi3006.github.io/website/
 #favicon_ico: "/assets/images/favicon.ico"
