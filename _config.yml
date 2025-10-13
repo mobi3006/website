@@ -9,6 +9,13 @@ logo: "/assets/images/pierreinside.jpg"
 search_enabled: true
 heading_anchors: true
 
+defaults:
+  - scope:
+      path: "docs" # an empty string here means all files in the project
+      type: "pages"
+    values:
+      layout: "default"
+
 aux_links:
   github: https://github.com/mobi3006/website
   pierreinside: https://mobi3006.gitbooks.io/pierreinside
