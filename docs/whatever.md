@@ -4,6 +4,8 @@ nav_order: 2
 layout: page
 ---
 
+tags: #mytag1 #mytag2 #mytag3
+
 whatever ...
 
 ```mermaid
