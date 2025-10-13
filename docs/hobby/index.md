@@ -1,6 +1,6 @@
 ---
 title: Hobbies
-nav_order: 3
+nav_order: 4
 ---
 
 Meine Hobbies und Interessen

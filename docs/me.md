@@ -1,6 +1,6 @@
 ---
-title: Me, myself and I
-nav_order: 1
+title: Whatever
+nav_order: 2
 ---
 
-Das bin ich
+hatever
