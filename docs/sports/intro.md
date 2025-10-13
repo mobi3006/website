@@ -1,8 +1,10 @@
 ---
 title: Intro
 parent: Sports
+layout: page
 nav_order: 3
 ---
+
 ## ASC Neuenheim
 
 ... pending
