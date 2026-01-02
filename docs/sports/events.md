@@ -1,4 +1,10 @@
-# Sport Events
+---
+title: Sport-Events
+parent: sports
+layout: page
+---
+
+# Sport-Events
 
 Sportevents, die ich live erlebt habe ...
 
