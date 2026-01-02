@@ -6,4 +6,4 @@ description: "... alles was Dich über mich interessieren könnte ... und ich pr
 permalink: /
 ---
 
-... alles was Dich über mich interessieren könnte ... und ich preisegeben möchte
+... alles was Dich über mich interessieren könnte ... und ich preisgeben möchte
